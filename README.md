@@ -1,2 +1,3 @@
 # bbbpinmuxer
-Library to adjust GPIO Mux settings on Beagle Bone Black
+C++ library to adjust GPIO Mux settings on Beagle Bone Black.
+

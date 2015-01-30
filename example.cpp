@@ -10,7 +10,7 @@ Description: Uses MCP3008 and pontientiometer to determine current voltage.
 #include <string>
 #include <stdlib.h>
 #include <unistd.h>
-#include "GPIOPinMuxer.cpp"
+#include "bbbpinmuxer.cpp"
 using namespace std;
 
 int readADC(int, string, string, string, string, GPIOPinMuxer&);

@@ -2,6 +2,8 @@
 License: New BSD (found in root of github directory.)
 Creation Date: 12-6-2013
 Description: Library that sets up Muxer settings for Beagle Bone Black.
+Also Library allows the ability to send bits to the GPIO ports.
+
 Tested on: Beagle Bone Black revision A4 running default Angstrom OS
 
 Will Only Compile following C++11 and later
